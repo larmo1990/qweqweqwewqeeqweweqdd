@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://larmo1990.github.io</id>
     <title>拉么诺维奇</title>
-    <updated>2019-05-26T07:00:21.035Z</updated>
+    <updated>2019-05-26T07:03:33.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://larmo1990.github.io"/>
     <link rel="self" href="https://larmo1990.github.io/atom.xml"/>
     <logo>https://larmo1990.github.io/images/avatar.png</logo>
     <icon>https://larmo1990.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 拉么诺维奇</rights>
+    <entry>
+        <title type="html"><![CDATA[s]]></title>
+        <id>https://larmo1990.github.io/post/s</id>
+        <link href="https://larmo1990.github.io/post/s">
+        </link>
+        <updated>2019-05-26T07:02:29.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://larmo1990.github.io/post-images/1558854202195.JPG" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[123123]]></title>
         <id>https://larmo1990.github.io/post/123123</id>
